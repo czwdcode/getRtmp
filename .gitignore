@@ -1,0 +1,4 @@
+*.pcap
+*_test.go
+.vscode/
+*.exe
