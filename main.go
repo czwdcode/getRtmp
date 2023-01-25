@@ -1,7 +1,7 @@
 package main
 
 import (
-	"capture/core"
+	"getRtmp/core"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module capture
+module getRtmp
 
 go 1.19
 
